@@ -6,25 +6,25 @@
 
 <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-Sobre mim
+About Me
 
-Sou estudante de Cibersegurança e Segurança da Informação, atuando como Técnico de Helpdesk Júnior em uma empresa de telecomunicações, onde lido diariamente com problemas reais de infraestrutura, redes, suporte e segurança básica.
-Tenho certificações como CEH, ISC2 CC, Cisco Endpoint Security, CyberSecurity Essentials, além de vivência em SOC e práticas de investigação digital.
-Gosto de unir visão estratégica com execução técnica — entendendo como ataques acontecem para construir defesas realmente eficazes.
+I am a Cybersecurity and Information Security student, currently working as a Junior Helpdesk Technician at a telecommunications company, where I deal daily with real-world infrastructure issues, networking, support, and baseline security.
+I hold certifications such as CEH, ISC2 CC, Cisco Endpoint Security, and CyberSecurity Essentials, along with hands-on experience in SOC environments and digital investigation practices.
+I enjoy combining strategic thinking with technical execution — understanding how attacks work to build truly effective defenses.
 
-🎯 Foco atual: Red Team, técnicas ofensivas, Forense Digital e análise de vestígios
+🎯 Current focus: Red Team operations, offensive techniques, Digital Forensics, and artifact analysis
 
-🛠️ Ferramentas e linguagens: Python 🐍, Linux 🐧, SIEM, automações, Packet Tracer 🌐
+🛠️ Tools & languages: Python 🐍, Linux 🐧, SIEM, automation workflows, Packet Tracer 🌐
 
-📡 Experiência prática: suporte técnico, diagnóstico de falhas, troubleshooting de rede, ambiente corporativo e telecom
+📡 Practical experience: technical support, fault diagnostics, network troubleshooting, corporate environments, and telecom operations
 
-📭 Pode falar comigo sobre: carreira em cyber, certificações, práticas ofensivas, forense, e caminhos reais para evoluir na área
+📭 Talk to me about: cybersecurity careers, certifications, offensive security, forensics, and realistic paths to grow in the field
 
-💬 Perguntas que me movem: “Como isso pode ser explorado?”, “Qual vestígio isso deixa?”, “Como elevar essa defesa para outro nível?”
+💬 Questions that drive me: “How can this be exploited?”, “What traces does this leave behind?”, “How can we take this defense to the next level?”
 
-👾 Fato curioso: tenho grande interesse em entender como tecnologias e ferramentas podem ser utilizadas de maneiras inesperadas — isso me ajuda a antecipar cenários, fortalecer defesas e pensar como um atacante sem ultrapassar limites éticos.
+👾 Fun fact: I’m fascinated by how legitimate tools and technologies can be used in unexpected ways — helping me anticipate scenarios, strengthen defenses, and think like an attacker while staying within ethical boundaries.
 
-🚀 Visão pessoal: transformar operações de segurança em algo mais inteligente, proativo e humano, usando técnica e imaginação para criar ambientes realmente resilientes
+🚀 Personal vision: to transform security operations into something more intelligent, proactive, and human, using technique and imagination to build truly resilient environments
 <details>
  
   ![Profile Views](https://komarev.com/ghpvc/?username=oliveiraaaz&color=blue)
