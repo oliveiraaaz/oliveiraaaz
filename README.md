@@ -34,13 +34,16 @@ I enjoy combining strategic thinking with technical execution — understanding 
 
 ## Pratice Labs - Try Hack Me
 
-- [x] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+<h3 style="color: white">Intro Rooms</h3>
+
+---
+
 - [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 - [x] [🕵️ TryHackMe | Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
 - [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 - [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 - [x] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
-- [x] [🕵️ TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
+- [x] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
 
 [![Profile last updated](https://img.shields.io/github/last-commit/oliveiraaaz/oliveiraaaz/main?label=Last%20updated&style=flat)](https://github.com/oliveiraaaz/oliveiraaaz/commits)
 
