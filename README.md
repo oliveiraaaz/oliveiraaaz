@@ -44,6 +44,7 @@ I enjoy combining strategic thinking with technical execution — understanding 
 - [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 - [x] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 - [x] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [x] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 
 [![Profile last updated](https://img.shields.io/github/last-commit/oliveiraaaz/oliveiraaaz/main?label=Last%20updated&style=flat)](https://github.com/oliveiraaaz/oliveiraaaz/commits)
 
